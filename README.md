@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sudhan Nagarajan
+# 👋 Hi, I'm Sudhan N
 
 🚀 Aspiring Web & ML Developer  
 💻 Building Cheap Mart and Binzy  
