@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudhan Nagarajan
 
-<!--
-**ISudhan/ISudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Web & ML Developer  
+💻 Building Cheap Mart and Binzy  
+📍 From India
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- React, Node.js, MongoDB, Flask
+- Python, Java, JavaScript
+- Git, Firebase, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Sudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhann001&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhann001&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudhann001&theme=radical)](https://git.io/streak-stats)
+
+<img src="https://leetcard.jacoblin.cool/sudhann001?theme=dark&font=Karma&ext=heatmap" />
