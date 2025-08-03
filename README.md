@@ -5,7 +5,7 @@
 📍 From India
 
 ## 🔧 Technologies & Tools
-- React, Node.js, MongoDB, Flask
+- React, Node.js, MongoDB
 - Python, Java, JavaScript
 - Git, Firebase, Power BI
 
