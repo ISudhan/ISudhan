@@ -13,6 +13,8 @@
 
 ## 📊 GitHub Stats
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ISudhan&theme=tokyo-night)
+
 ![Sudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISudhan&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISudhan&layout=compact&theme=radical)
