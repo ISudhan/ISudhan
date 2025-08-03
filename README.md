@@ -13,10 +13,10 @@
 
 ## 📊 GitHub Stats
 
-![Sudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhann001&show_icons=true&theme=radical)
+![Sudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISudhan&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhann001&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISudhan&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudhann001&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ISudhan&theme=radical)](https://git.io/streak-stats)
 
-<img src="https://leetcard.jacoblin.cool/sudhann001?theme=dark&font=Karma&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/ISudhan?theme=dark&font=Karma&ext=heatmap" />
