@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sudhan N
 
 🚀 Aspiring Web & ML Developer  
-💻 Building Cheap Mart and Binzy  
+💻 Building Creative Projects  
 📍 From India
 
 ## 🔧 Technologies & Tools
