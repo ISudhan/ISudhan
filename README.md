@@ -13,12 +13,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ISudhan&theme=tokyo-night)
+![Sudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISudhan&show_icons=true&theme=dark&hide_title=true&count_private=true&hide=prs&include_all_commits=true&border_radius=10)
 
-![Sudhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISudhan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISudhan&layout=compact&theme=dark&border_radius=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISudhan&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ISudhan&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ISudhan&theme=radical)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ISudhan&theme=dark&hide_border=true)
 
-<img src="https://leetcard.jacoblin.cool/ISudhan?theme=dark&font=Karma&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/ISudhan?theme=dark&font=Karma&ext=heatmap&border_radius=5" />
