@@ -55,4 +55,4 @@
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+✨ *“Excellence happens not by accident. It is a process.” – Dr. A.P.J. Abdul Kalam  
