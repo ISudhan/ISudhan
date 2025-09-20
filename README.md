@@ -44,15 +44,5 @@
 
 </div>
 
----
-
-## 🏆 Achievements & Highlights  
-
-- 🔥 Consistently learning & contributing to open-source  
-- 📈 Building **end-to-end full stack & ML projects**  
-- 🎯 Focused on writing **clean, scalable code**  
-- 🌍 Interested in **AI, analytics, and web platforms**  
-
----
 
 ✨ *“Excellence happens not by accident. It is a process.” – Dr. A.P.J. Abdul Kalam  
