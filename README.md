@@ -1,19 +1,43 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sudhan%20N&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontSize=0&animation=blinking" />
 
-<h2 align="center">🚀 Full-Stack Developer | AI Enthusiast | Problem Solver</h2>
+<!-- Name Section with Special Styling -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=80&lines=S+U+D+H+A+N++N" alt="Name Animation" />
+</h1>
 
-<p align="center">
-  <em>Passionate about creating innovative solutions with modern technologies</em><br>
-  <strong>Building scalable applications • Exploring machine learning • Solving complex problems</strong>
-</p>
+<!-- Subtitle with Typing Effect -->
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Code+Craftsman" alt="Roles" />
+</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-India-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/💼_Status-Open_to_Opportunities-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/🔥_Focus-Full_Stack_Development-orange?style=flat-square" />
-</p>
+<!-- Decorative Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Professional Info Cards -->
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌍_Based_in-India-FF6B6B?style=for-the-badge&labelColor=1a1a1a&color=FF6B6B" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/💼_Status-Available-4ECDC4?style=for-the-badge&labelColor=1a1a1a&color=4ECDC4" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Focus-Full_Stack-45B7D1?style=for-the-badge&labelColor=1a1a1a&color=45B7D1" />
+</td>
+</tr>
+</table>
+
+<!-- Quote Section -->
+<br>
+
+> ### *"Excellence happens not by accident. It is a process."*
+> **— A.P.J. Abdul Kalam**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -80,8 +104,7 @@
 
 <div align="center">
 
-### ✨ *"Code is like humor. When you have to explain it, it's bad."*
-**— Cory House**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
