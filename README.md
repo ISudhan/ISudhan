@@ -1,33 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=console.log('Hello%20World!')&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sudhan%20N&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=const+developer+%3D+%22Sudhan+N%22%3B;Full-Stack+%7C+Problem+Solver;Building+%7C%7C+Breaking+%7C%7C+Learning;while(alive)+%7B+code();+%7D" alt="Typing SVG" />
-</h1>
-
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Sudhan N";
-    this.location = "India 🇮🇳";
-    this.skills = ["Frontend", "Backend", "AI/ML", "Problem Solving"];
-    this.currentFocus = "Building scalable web applications";
-    this.status = "Open to exciting opportunities";
-  }
-  
-  sayHi() {
-    return "Thanks for dropping by! Let's build something amazing together! 🚀";
-  }
-}
-
-const sudhan = new Developer();
-```
+<h2 align="center">🚀 Full-Stack Developer | AI Enthusiast | Problem Solver</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Lives%20Here-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coffee-Driven%20Developer-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Debugging%20Life-FF6B6B?style=for-the-badge&logo=bugsnag&logoColor=white" />
+  <em>Passionate about creating innovative solutions with modern technologies</em><br>
+  <strong>Building scalable applications • Exploring machine learning • Solving complex problems</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Status-Open_to_Opportunities-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔥_Focus-Full_Stack_Development-orange?style=flat-square" />
 </p>
 
 </div>
