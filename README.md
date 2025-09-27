@@ -1,67 +1,19 @@
 <div align="center">
 
-<!-- Modern Header with Clean Design -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=200&section=header&text=&fontSize=0&rotate=13&fontAlignY=25&desc=&descAlignY=51&descAlign=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sudhan%20N&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-<div style="margin-top: -100px; position: relative;">
+<h2 align="center">🚀 Full-Stack Developer | AI Enthusiast | Problem Solver</h2>
 
-<!-- Clean Name Display with Typewriter Effect -->
-<div style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-radius: 20px; padding: 30px; margin: -80px auto 30px auto; max-width: 500px; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.2); border: 1px solid rgba(255, 255, 255, 0.3);">
-  
-  <div style="font-family: 'Courier New', monospace; font-size: 2.8em; font-weight: 700; text-align: center; color: #2c3e50; margin-bottom: 10px; position: relative;">
-    <span style="opacity: 0.6;">></span> 
-    <span style="background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sudhan.N</span>
-    <span style="animation: blink 1s infinite; color: #667eea;">_</span>
-  </div>
-  
-  <div style="font-family: 'Monaco', monospace; font-size: 0.9em; color: #7f8c8d; text-align: center; margin-top: 5px;">
-    <span style="color: #e74c3c;">class</span> <span style="color: #3498db;">Developer</span> <span style="color: #95a5a6;">{</span>
-    <br>
-    <span style="margin-left: 20px; color: #27ae60;">status:</span> <span style="color: #e67e22;">"ready_to_code"</span>
-    <br>
-    <span style="color: #95a5a6;">}</span>
-  </div>
-  
-</div>
-
-<style>
-@keyframes blink {
-  0%, 50% { opacity: 1; }
-  51%, 100% { opacity: 0; }
-}
-</style>
-
-<!-- Minimalist Role Cards -->
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
-  <span style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 8px 20px; border-radius: 25px; color: white; font-weight: 500; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">⚡ Full-Stack Developer</span>
-  <span style="background: linear-gradient(135deg, #f093fb, #f5576c); padding: 8px 20px; border-radius: 25px; color: white; font-weight: 500; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.4);">🧠 AI Enthusiast</span>
-  <span style="background: linear-gradient(135deg, #4facfe, #00f2fe); padding: 8px 20px; border-radius: 25px; color: white; font-weight: 500; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.4);">🎯 Problem Solver</span>
-</div>
-
-<!-- Status Indicator -->
-<p style="font-size: 1.1em; color: #666; margin: 25px 0;">
-  📍 <strong>India</strong> • 💼 <strong>Available for Opportunities</strong> • 🚀 <strong>Building the Future</strong>
+<p align="center">
+  <em>Passionate about creating innovative solutions with modern technologies</em><br>
+  <strong>Building scalable applications • Exploring machine learning • Solving complex problems</strong>
 </p>
 
-<!-- Inspirational Quote -->
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(116, 75, 162, 0.1)); border-left: 4px solid #667eea; padding: 20px; margin: 30px auto; max-width: 600px; border-radius: 10px;">
-  <em style="font-size: 1.2em; color: #555; line-height: 1.6;">"Excellence happens not by accident. It is a process."</em>
-  <br><strong style="color: #667eea; margin-top: 10px; display: block;">— A.P.J. Abdul Kalam</strong>
-</div>
-
-</div>
-
-<!-- Subtle Divider -->
-<svg width="100%" height="20" viewBox="0 0 100 20" style="margin: 40px 0;">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#667eea;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:0" />
-    </linearGradient>
-  </defs>
-  <line x1="0" y1="10" x2="100" y2="10" stroke="url(#gradient)" stroke-width="2"/>
-</svg>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Status-Open_to_Opportunities-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔥_Focus-Full_Stack_Development-orange?style=flat-square" />
+</p>
 
 </div>
 
@@ -125,5 +77,12 @@
 </div>
 
 ---
+
+<div align="center">
+
+### ✨ *"Code is like humor. When you have to explain it, it's bad."*
+**— Cory House**
+
+</div>
 
 </div>
