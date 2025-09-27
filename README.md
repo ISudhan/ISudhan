@@ -1,76 +1,84 @@
-# 👋 Hi, I'm Sudhan N  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Aspiring+Web+%26+ML+Developer;Full+Stack+%7C+AI+Enthusiast;Building+Creative+%26+Scalable+Projects)](https://git.io/typing-svg)
-
-🚀 Web & ML Enthusiast  
-💻 Exploring AI, Data, and Full Stack Development  
-📍 From India  
-
----
-
-## 🔧 Technologies & Tools  
-
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-
----
-
-## 📊 GitHub Stats & Activity  
+# <div align="center">👋 Hi, I'm **Sudhan N**</div>
 
 <div align="center">
+  
+🚀 **Aspiring Web & ML Developer**  
+💻 Building Creative Projects | Exploring AI & Scalable Systems  
+📍 From India
 
-<!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISudhan&theme=tokyonight" alt="Profile Details" />  
+---
 
-<!-- Languages -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ISudhan&theme=tokyonight" alt="Most Used Languages" />  
+## 🔧 **Technologies & Tools**
 
-<!-- General Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ISudhan&theme=tokyonight" alt="GitHub Stats" />  
+### Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-<!-- Streak Stats (Fixed URL) -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ISudhan&theme=tokyonight&border_radius=12" alt="GitHub Streak" />  
+### Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
+
+### Database
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+
+### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### Tools & Others
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+<!-- Compact GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ISudhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=7f5af0&title_color=7f5af0&text_color=ffffff" alt="GitHub Stats" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISudhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7f5af0&text_color=ffffff" alt="Most Used Languages" />
+
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=ISudhan&theme=tokyonight&border_radius=15&hide_border=true&background=0d1117&ring=7f5af0&fire=ff6b6b&currStreakLabel=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISudhan&theme=tokyo-night&hide_border=true&area=true&line=7f5af0&point=ffffff" alt="GitHub Activity Graph" />  
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISudhan&theme=tokyo-night&hide_border=true&area=true&line=7f5af0&point=ffffff&bg_color=0d1117&color=ffffff" alt="GitHub Activity Graph" />
+</div>
 
-<!-- LeetCode -->
-<img src="https://leetcard.jacoblin.cool/ISudhan?theme=dark&font=Karma&ext=heatmap&border_radius=10" alt="LeetCode Stats" />  
-
+<!-- LeetCode Stats -->
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/ISudhan?theme=dark&font=Karma&ext=activity&border_radius=15" alt="LeetCode Stats" />
 </div>
 
 ---
 
-## 🏆 Achievements & Highlights  
+<div align="center">
 
-- 🔥 Consistently learning & contributing to open-source  
-- 📈 Building **end-to-end full stack & ML projects**  
-- 🎯 Writing **clean, scalable, and maintainable code**  
-- 🌍 Interested in **AI, analytics, and web platforms**  
+### ✨ *"Excellence happens not by accident. It is a process."*
+**— A.P.J. Abdul Kalam**
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=ISudhan&color=7f5af0&style=for-the-badge&label=PROFILE+VIEWS)
 
-## 🌐 Connect With Me  
+</div>
 
-<p align="center">
-  <a href="https://github.com/ISudhan">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>  
-
----
-
-✨ *“Take risks in your life. If you win, you can lead. If you lose, you can guide.”* – Swami Vivekananda  
+</div>
