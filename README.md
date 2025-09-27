@@ -1,43 +1,46 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=&fontSize=0&animation=blinking" />
+<!-- Modern Header with Clean Design -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=200&section=header&text=&fontSize=0&rotate=13&fontAlignY=25&desc=&descAlignY=51&descAlign=62" />
 
-<!-- Name Section with Special Styling -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=45&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=80&lines=S+U+D+H+A+N++N" alt="Name Animation" />
+<div style="margin-top: -100px; position: relative;">
+
+<!-- Clean Name Display -->
+<h1 style="font-size: 3.5em; font-weight: 700; margin: 20px 0; background: linear-gradient(45deg, #667eea, #764ba2, #f093fb); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 2px 10px rgba(102, 126, 234, 0.3);">
+  𝕊𝕦𝕕𝕙𝕒𝕟 ℕ
 </h1>
 
-<!-- Subtitle with Typing Effect -->
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&duration=2000&pause=500&color=4A90E2&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Enthusiast;Problem+Solver;Code+Craftsman" alt="Roles" />
-</h3>
+<!-- Minimalist Role Cards -->
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
+  <span style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 8px 20px; border-radius: 25px; color: white; font-weight: 500; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">⚡ Full-Stack Developer</span>
+  <span style="background: linear-gradient(135deg, #f093fb, #f5576c); padding: 8px 20px; border-radius: 25px; color: white; font-weight: 500; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.4);">🧠 AI Enthusiast</span>
+  <span style="background: linear-gradient(135deg, #4facfe, #00f2fe); padding: 8px 20px; border-radius: 25px; color: white; font-weight: 500; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.4);">🎯 Problem Solver</span>
+</div>
 
-<!-- Decorative Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Status Indicator -->
+<p style="font-size: 1.1em; color: #666; margin: 25px 0;">
+  📍 <strong>India</strong> • 💼 <strong>Available for Opportunities</strong> • 🚀 <strong>Building the Future</strong>
+</p>
 
-<!-- Professional Info Cards -->
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🌍_Based_in-India-FF6B6B?style=for-the-badge&labelColor=1a1a1a&color=FF6B6B" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/💼_Status-Available-4ECDC4?style=for-the-badge&labelColor=1a1a1a&color=4ECDC4" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🎯_Focus-Full_Stack-45B7D1?style=for-the-badge&labelColor=1a1a1a&color=45B7D1" />
-</td>
-</tr>
-</table>
+<!-- Inspirational Quote -->
+<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1), rgba(116, 75, 162, 0.1)); border-left: 4px solid #667eea; padding: 20px; margin: 30px auto; max-width: 600px; border-radius: 10px;">
+  <em style="font-size: 1.2em; color: #555; line-height: 1.6;">"Excellence happens not by accident. It is a process."</em>
+  <br><strong style="color: #667eea; margin-top: 10px; display: block;">— A.P.J. Abdul Kalam</strong>
+</div>
 
-<!-- Quote Section -->
-<br>
+</div>
 
-> ### *"Excellence happens not by accident. It is a process."*
-> **— A.P.J. Abdul Kalam**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Subtle Divider -->
+<svg width="100%" height="20" viewBox="0 0 100 20" style="margin: 40px 0;">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="10" x2="100" y2="10" stroke="url(#gradient)" stroke-width="2"/>
+</svg>
 
 </div>
 
@@ -101,11 +104,5 @@
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
 
 </div>
