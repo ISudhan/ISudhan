@@ -2,14 +2,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sudhan%20N&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Problem+Solver+%7C+Tech+Explorer;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
-</h3>
+<h2 align="center">🚀 Full-Stack Developer | AI Enthusiast | Problem Solver</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-0080ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-ff6b6b?style=for-the-badge&logo=target&logoColor=white" />
+  <em>Passionate about creating innovative solutions with modern technologies</em><br>
+  <strong>Building scalable applications • Exploring machine learning • Solving complex problems</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/💼_Status-Open_to_Opportunities-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔥_Focus-Full_Stack_Development-orange?style=flat-square" />
 </p>
 
 </div>
@@ -79,8 +82,6 @@
 
 ### ✨ *"Excellence happens not by accident. It is a process."*
 **— A.P.J. Abdul Kalam**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ISudhan&color=7f5af0&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
