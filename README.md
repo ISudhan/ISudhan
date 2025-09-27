@@ -5,10 +5,31 @@
 
 <div style="margin-top: -100px; position: relative;">
 
-<!-- Clean Name Display -->
-<h1 style="font-size: 3.5em; font-weight: 700; margin: 20px 0; background: linear-gradient(45deg, #667eea, #764ba2, #f093fb); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 2px 10px rgba(102, 126, 234, 0.3);">
-  𝕊𝕦𝕕𝕙𝕒𝕟 ℕ
-</h1>
+<!-- Clean Name Display with Typewriter Effect -->
+<div style="background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px); border-radius: 20px; padding: 30px; margin: -80px auto 30px auto; max-width: 500px; box-shadow: 0 10px 40px rgba(102, 126, 234, 0.2); border: 1px solid rgba(255, 255, 255, 0.3);">
+  
+  <div style="font-family: 'Courier New', monospace; font-size: 2.8em; font-weight: 700; text-align: center; color: #2c3e50; margin-bottom: 10px; position: relative;">
+    <span style="opacity: 0.6;">></span> 
+    <span style="background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sudhan.N</span>
+    <span style="animation: blink 1s infinite; color: #667eea;">_</span>
+  </div>
+  
+  <div style="font-family: 'Monaco', monospace; font-size: 0.9em; color: #7f8c8d; text-align: center; margin-top: 5px;">
+    <span style="color: #e74c3c;">class</span> <span style="color: #3498db;">Developer</span> <span style="color: #95a5a6;">{</span>
+    <br>
+    <span style="margin-left: 20px; color: #27ae60;">status:</span> <span style="color: #e67e22;">"ready_to_code"</span>
+    <br>
+    <span style="color: #95a5a6;">}</span>
+  </div>
+  
+</div>
+
+<style>
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+</style>
 
 <!-- Minimalist Role Cards -->
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 30px 0;">
