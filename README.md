@@ -1,45 +1,59 @@
-# <div align="center">👋 Hi, I'm **Sudhan N**</div>
-
 <div align="center">
-  
-🚀 **Aspiring Web & ML Developer**  
-💻 Building Creative Projects | Exploring AI & Scalable Systems  
-📍 From India
+
+# 👋 **Sudhan N**
+### Full-Stack Developer | AI Enthusiast | Problem Solver
+
+*Passionate about creating innovative solutions through code*  
+*Building the future with modern web technologies and machine learning*
+
+📍 **India** | 💼 **Open to Opportunities**
+
+</div>
 
 ---
 
-## 🔧 **Technologies & Tools**
+<div align="center">
 
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+## 🛠️ **Tech Stack**
 
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
+<table>
+<tr>
+<td align="center" width="200px">
+<strong>Frontend</strong><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td align="center" width="200px">
+<strong>Backend</strong><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+</td>
+<td align="center" width="200px">
+<strong>Database</strong><br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>Languages</strong><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</td>
+<td align="center">
+<strong>Tools</strong><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+</td>
+<td align="center">
+<strong>Analytics</strong><br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</td>
+</tr>
+</table>
 
-### Database
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-</p>
-
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### Tools & Others
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
+</div>
 
 ---
 
@@ -67,6 +81,9 @@
 
 <!-- LeetCode Stats -->
 <div align="center">
+
+## 💻 **LeetCode Stats**
+
 <img src="https://leetcard.jacoblin.cool/ISudhan?theme=dark&font=Karma&ext=activity&border_radius=15" alt="LeetCode Stats" />
 </div>
 
