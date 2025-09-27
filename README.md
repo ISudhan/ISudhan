@@ -1,15 +1,33 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sudhan%20N&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=console.log('Hello%20World!')&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Problem+Solver+%7C+Tech+Explorer;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
-</h3>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=const+developer+%3D+%22Sudhan+N%22%3B;Full-Stack+%7C+Problem+Solver;Building+%7C%7C+Breaking+%7C%7C+Learning;while(alive)+%7B+code();+%7D" alt="Typing SVG" />
+</h1>
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Sudhan N";
+    this.location = "India 🇮🇳";
+    this.skills = ["Frontend", "Backend", "AI/ML", "Problem Solving"];
+    this.currentFocus = "Building scalable web applications";
+    this.status = "Open to exciting opportunities";
+  }
+  
+  sayHi() {
+    return "Thanks for dropping by! Let's build something amazing together! 🚀";
+  }
+}
+
+const sudhan = new Developer();
+```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-0080ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-ff6b6b?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Lives%20Here-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coffee-Driven%20Developer-8B4513?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Debugging%20Life-FF6B6B?style=for-the-badge&logo=bugsnag&logoColor=white" />
 </p>
 
 </div>
@@ -77,10 +95,8 @@
 
 <div align="center">
 
-### ✨ *"Excellence happens not by accident. It is a process."*
-**— A.P.J. Abdul Kalam**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ISudhan&color=7f5af0&style=for-the-badge&label=PROFILE+VIEWS)
+### ✨ *"Code is like humor. When you have to explain it, it's bad."*
+**— Cory House**
 
 </div>
 
