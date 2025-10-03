@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sudhan%20N&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-<h2 align="center">🚀 Full-Stack Developer | AI Enthusiast | Problem Solver</h2>
+<h2 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h2>
 
 <p align="center">
   <em>Passionate about creating innovative solutions with modern technologies</em><br>
@@ -74,6 +74,7 @@
 ## 💻 **LeetCode Stats**
 
 <img src="https://leetcard.jacoblin.cool/ISudhan?theme=dark&font=Karma&ext=activity&border_radius=15" alt="LeetCode Stats" />
+
 </div>
 
 ---
@@ -82,7 +83,5 @@
 
 ### ✨ *"Excellence happens not by accident. It is a process."*
 **— A.P.J. Abdul Kalam**
-
-</div>
 
 </div>
