@@ -60,7 +60,7 @@
 
 <!-- GitHub Streak -->
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ISudhan&theme=tokyonight&border_radius=15&hide_border=true&background=0d1117&ring=7f5af0&fire=ff6b6b&currStreakLabel=ffffff&dates=ffffff" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=ISudhan&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <!-- Activity Graph -->
