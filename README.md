@@ -73,7 +73,8 @@
 
 ## 💻 **LeetCode Stats**
 
-<img src="https://leetcard.jacoblin.cool/ISudhan?theme=dark&font=Karma&ext=activity&border_radius=15" alt="LeetCode Stats" />
+![Leetcode Stats](https://leetcard.jacoblin.cool/ISudhan?theme=dark)
+
 </div>
 
 ---
